@@ -7,5 +7,5 @@ a pie chart illustrating the number of positive and negative trading days,
 and a graph displaying revenue and earnings.
 The project aims to provide a comprehensive overview of Wix stock's performance and shareholder structure.
 
-**Link to Tableau
+**Link to Tableau DashBoard:
 https://public.tableau.com/app/profile/bar.ifergan/viz/WixStockPerformanceProject/Dashboard1
