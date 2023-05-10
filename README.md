@@ -1,5 +1,5 @@
 # Wix-Stock-Project
-This project uses Tableau to analyze Wix stock and presents the findings through multiple visualizations.
+This project uses Tableau, SQL and Excel to analyze Wix stock and presents the findings through multiple visualizations.
 The visualizations include a comparison chart with competitors,
 a blocks chart of the top 10 shareholders,
 a bubble chart highlighting the best and worst trade days,
